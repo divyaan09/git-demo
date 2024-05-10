@@ -1,3 +1,3 @@
 # git-demo
-This is my third git repo
+This is my third git repo.
 Author - Divyanshu Raj
